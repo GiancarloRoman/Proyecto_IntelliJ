@@ -1,4 +1,4 @@
-package pe.edu.upc.trabajo_grupa.serviceinterfaces;
+package pe.edu.upc.trabajo_grupal.serviceinterfaces;
 
 import pe.edu.upc.trabajo_grupal.entities.Cliente;
 
