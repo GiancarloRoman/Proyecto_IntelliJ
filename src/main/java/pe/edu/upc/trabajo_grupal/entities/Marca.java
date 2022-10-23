@@ -1,4 +1,4 @@
-package pe.edu.upc.trabajo_grupal1.entities;
+package pe.edu.upc.trabajo_grupal.entities;
 
 import javax.persistence.*;
 
